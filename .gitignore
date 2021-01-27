@@ -1,3 +1,11 @@
+# Lab files
+eccentric
+hello
+ll_equal
+ll_cycle
+int_hello
+autograder/
+
 # Prerequisites
 *.d
 
