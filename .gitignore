@@ -4,7 +4,8 @@ hello
 ll_equal
 ll_cycle
 int_hello
-.autograder
+.autograder/*.zip
+.autograder/token
 
 # Prerequisites
 *.d
